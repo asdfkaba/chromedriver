@@ -19,7 +19,6 @@ CHROMEDRIVER_VERSION = None  # replace it after to appropriate module import
 CHROMEDRIVER_URL_BASE = "http://chromedriver.storage.googleapis.com/%s/"
 DOWNLOAD_LINKS = {
     'Linux64': "chromedriver_linux64.zip",
-    'Linux32': "chromedriver_linux32.zip",
     'Windows': "chromedriver_win32.zip",
     'Darwin': "chromedriver_mac%s.zip",
 }
